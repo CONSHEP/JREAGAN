@@ -1,0 +1,59 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
+
+body {
+
+  margin: 0;
+  font-family: 'Shippori Mincho', serif;
+  font-size: 80px;
+
+}
+
+
+
+footer {
+  height: 75px;
+  display: flex;
+  justify-content: center;
+  align-items: flex-end;
+}
+
+.hero-secondary {
+  font-size: 18px;
+  color: #000000;
+
+}
+
+.nav-links {
+  font-size: 13px;
+  text-transform: uppercase;
+  text-decoration: none;
+  letter-spacing: 2px;
+  font-weight: 600;
+  font-style: normal;
+  line-height: lem;
+  color: rgb(255, 255, 255);
+  font-family: "proxima-nova","serif";
+  display: flex;
+  width: 50%;
+  justify-content: space-around;
+}
+
+.collection {
+
+}
+
+
+
+a {
+  text-decoration: none;
+  background: transparent;
+}
+
+
+
+.header-div {
+  background-image: url("./images/header.png");
+  display: flex;
+}
+
+
